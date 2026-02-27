@@ -9,7 +9,7 @@
 
 ## 🤗&nbsp; Bem-vindo à Área 55 🇧🇷
 
-Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [*ruber-duck*](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar. Até escrevi um post sobre isso: [Uma Boa e Má Notícia para Quem Tem Medo de Perder Emprego pra IA](https://www.tabnews.com.br/teknolista/uma-boa-e-ma-noticia-para-quem-tem-medo-de-perder-emprego-pra-ia).
+Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [ruber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar. Até escrevi um post sobre isso: [Uma Boa e Má Notícia para Quem Tem Medo de Perder Emprego pra IA](https://www.tabnews.com.br/teknolista/uma-boa-e-ma-noticia-para-quem-tem-medo-de-perder-emprego-pra-ia).
 
 Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no WhatsApp](https://chat.whatsapp.com/JXvozXCMlB70Sw8zk7n2sS) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
