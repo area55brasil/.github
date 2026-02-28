@@ -7,7 +7,7 @@
 > 
 > — <a href="https://pt.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
 
-## 🤗&nbsp; Bem-vindo à Área 55 🇧🇷
+## 🤗&nbsp; Bem-vindo(a) à Área 55 🇧🇷
 
 Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [ruber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar. Até escrevi um post sobre isso: [Uma Boa e Má Notícia para Quem Tem Medo de Perder Emprego pra IA](https://www.tabnews.com.br/teknolista/uma-boa-e-ma-noticia-para-quem-tem-medo-de-perder-emprego-pra-ia).
 
@@ -20,7 +20,7 @@ A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização
 
 Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição deste ano (2026). É apenas um projeto para testar a capacidade da IA em gerar um website usando especificações interativas e incrementais ([Spec Driven Development](https://github.github.com/spec-kit/)) através de [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
 
-## 🤝🏻&nbsp; Collaboration over Coordination
+## 🤝&nbsp; Collaboration over Coordination
 
 Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos outros. Não há patrão, gerente, scrum master, tech lead, chefe, cacique, pajé… Os trabalhos são feitos seguindo a metodologia [e**X**treme **P**rogramming](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema). A XP traz a vantagem de criar um sentimento de responsabilidade compartilhada — nenhuma parte do código tem “dono”.
 
