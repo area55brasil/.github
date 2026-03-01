@@ -26,6 +26,17 @@ Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos out
 
 Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decidir participar, peço que mencione se tem alguma especialidade. Todos e todas são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
 
+## 🚫&nbsp; Don't Touch That Repo!
+
+> Os repositórios do futuro terão apenas três papéis (roles): um engenheiro, um agente e um cachorro.
+> O engenheiro estará lá para alimentar o agente.
+> O agente estará lá para manter o repositório e gerar código.
+> O cachorro estará lá para impedir que o homem toque (escreva) no repositório.
+
+A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s).
+
+<p align="center">![Lulu está de olho](https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg)</p>
+
 <br />
 
 <h4 align="right">:vulcan_salute:&nbsp; Code Long in Peace.</h4>
