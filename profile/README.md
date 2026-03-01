@@ -31,7 +31,7 @@ Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decid
 > Os repositórios do futuro terão apenas três papéis (roles): um engenheiro, um agente e um cachorro.
 > O engenheiro estará lá para alimentar o agente.
 > O agente estará lá para manter o repositório e gerar código.
-> O cachorro estará lá para impedir que o homem toque (escreva) no repositório.
+> O cachorro estará lá para impedir que o engenheiro toque (escreva) no repositório.
 
 <p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="256px" alt="Lulu está de olho"></p>
 
