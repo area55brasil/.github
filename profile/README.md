@@ -35,7 +35,7 @@ Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decid
 
 <p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="256px" alt="Lulu está de olho"></p>
 
-A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a tag `#lulurepo` ou `#lulu-repo`, apenas *vibe edite*.
+A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas *vibe edite*.
 
 <br />
 
