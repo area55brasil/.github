@@ -35,7 +35,7 @@ Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decid
 
 A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s).
 
-<p align="center">![Lulu está de olho](https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="400px" alt="Lulu está de olho"></p>
 
 <br />
 
