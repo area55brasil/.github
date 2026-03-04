@@ -13,10 +13,6 @@ Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não
 
 Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no WhatsApp](https://chat.whatsapp.com/JXvozXCMlB70Sw8zk7n2sS) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
-## 🫵&nbsp; BYOP: Bring Your Own Project
-
-Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repo. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só pra verificar se o projeto é compatível.
-
 ## 🤝&nbsp; Collaboration over Coordination
 
 Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos outros. Não há patrão, gerente, scrum master, tech lead, chefe, cacique, pajé… Os trabalhos são feitos seguindo a metodologia [e**X**treme **P**rogramming](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema). A XP traz a vantagem de criar um sentimento de responsabilidade compartilhada — nenhuma parte do código tem “dono”.
@@ -28,6 +24,10 @@ Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decid
 A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização afetiva das pessoas, através de um simples questionário online. Ainda está em fase de pesquisa e detalhamento.
 
 Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição deste ano (2026). É apenas um projeto para testar a capacidade da IA em gerar um website usando especificações interativas e incrementais ([Spec Driven Development](https://github.github.com/spec-kit/)) através de [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+
+## 🫵&nbsp; BYOP: Bring Your Own Project
+
+Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repo. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só pra verificar se o projeto é compatível.
 
 ## 🚫&nbsp; Don't Touch That Repo!
 
