@@ -13,18 +13,21 @@ Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não
 
 Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no WhatsApp](https://chat.whatsapp.com/JXvozXCMlB70Sw8zk7n2sS) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
+## 🫵&nbsp; BYOP: Bring Your Own Project
 
-## 🤬&nbsp; [Caste](https://github.com/area55brasil/caste) • Teste de Polarização Política
-
-A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização afetiva das pessoas, através de um simples questionário online. Ainda está em fase de pesquisa e detalhamento.
-
-Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição deste ano (2026). É apenas um projeto para testar a capacidade da IA em gerar um website usando especificações interativas e incrementais ([Spec Driven Development](https://github.github.com/spec-kit/)) através de [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repo. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só pra verificar se o projeto é compatível.
 
 ## 🤝&nbsp; Collaboration over Coordination
 
 Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos outros. Não há patrão, gerente, scrum master, tech lead, chefe, cacique, pajé… Os trabalhos são feitos seguindo a metodologia [e**X**treme **P**rogramming](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema). A XP traz a vantagem de criar um sentimento de responsabilidade compartilhada — nenhuma parte do código tem “dono”.
 
-Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decidir participar, peço que mencione se tem alguma especialidade. Todos e todas são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
+Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decidir participar de algum dos projetos, peço que mencione se tem alguma especialidade. Todos e todas são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
+
+## 🤬&nbsp; [Caste](https://github.com/area55brasil/caste) • Teste de Polarização Político/Afetiva
+
+A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização afetiva das pessoas, através de um simples questionário online. Ainda está em fase de pesquisa e detalhamento.
+
+Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição deste ano (2026). É apenas um projeto para testar a capacidade da IA em gerar um website usando especificações interativas e incrementais ([Spec Driven Development](https://github.github.com/spec-kit/)) através de [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
 
 ## 🚫&nbsp; Don't Touch That Repo!
 
@@ -35,7 +38,7 @@ Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decid
 
 <p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="256px" alt="Lulu está de olho"></p>
 
-A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas *vibe edite*.
+A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas vibe edite.
 
 <br />
 
