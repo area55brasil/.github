@@ -25,10 +25,6 @@ A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização
 
 Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição deste ano (2026). É apenas um projeto para testar a capacidade da IA em gerar um website usando especificações interativas e incrementais ([Spec Driven Development](https://github.github.com/spec-kit/)) através de [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
 
-## 🫵&nbsp; BYOP: Bring Your Own Project
-
-Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repositório. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só para verificar se o projeto é compatível.
-
 ## 🚫&nbsp; Don't Touch That Repo!
 
 > Os repositórios do futuro terão apenas três papéis (roles): um engenheiro, um agente e um cachorro.
@@ -36,9 +32,13 @@ Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à
 > O agente estará lá para manter o repositório e gerar código.
 > O cachorro estará lá para impedir que o engenheiro toque (escreva) no repositório.
 
+A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas vibe edite.
+
 <p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="256px" alt="Lulu está de olho"></p>
 
-A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas vibe edite.
+## 🫵&nbsp; BYOP: Bring Your Own Project
+
+Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repositório. Entre em contato pelo [grupo WhatsApp](https://chat.whatsapp.com/JXvozXCMlB70Sw8zk7n2sS) para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só para verificar se o projeto é compatível.
 
 <br />
 
