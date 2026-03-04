@@ -27,7 +27,7 @@ Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição
 
 ## 🫵&nbsp; BYOP: Bring Your Own Project
 
-Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repo. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só pra verificar se o projeto é compatível.
+Se você já está tocando algum projeto e gostaria de desenvolvê-lo em meio à comunidade, então traga seu repositório. Entre em contato pelo grupo WhatsApp para que eu possa incorporar seu projeto nesta organização. Mas você terá que responder algumas questões só para verificar se o projeto é compatível.
 
 ## 🚫&nbsp; Don't Touch That Repo!
 
