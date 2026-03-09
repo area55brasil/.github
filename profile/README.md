@@ -19,7 +19,7 @@ Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos out
 
 Existem apenas 2 papeis aqui: *Product Owner* e *Developer* (et tu?). Quem decidir participar de algum dos projetos, peço que mencione se tem alguma especialidade. Todos e todas são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
 
-## 🤬&nbsp; [Caste](https://github.com/area55brasil/caste) • Teste de Polarização Político/Afetiva
+## 🤬&nbsp; [Castas](https://github.com/area55brasil/castas) • Teste de Polarização Político/Afetiva
 
 A ideia do primeiro aplicativo é bem simples: avaliar o nível de polarização afetiva das pessoas, através de um simples questionário online. Ainda está em fase de pesquisa e detalhamento.
 
@@ -32,7 +32,7 @@ Não é algo que estou fazendo pra faturar como SaaS, ou influenciar a eleição
 > O agente estará lá para manter o repositório e gerar código.
 > O cachorro estará lá para impedir que o engenheiro toque (escreva) no repositório.
 
-A ideia é bastante simples: todos os artefatos mantidos em repositórios para criação de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum arquivo, seja configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) arquivo(s). Se tiver a hashtag `#lulurepo`, apenas vibe edite.
+A ideia é bastante simples: todos os artefatos mantidos em repositórios para projetos de software são delegados aos agentes de IA que fazem sua manutenção. Nenhum artefato, seja especificação, configuração, documentação ou código, pode ser alterado diretamente por pessoas. Tudo deve ser solicitado ao agente de IA (Claude, Codex, Copilot, Opencode, etc) que por sua vez fará a criação, alteração ou exclusão do(s) artefato(s). Se tiver a hashtag `#lulurepo`, apenas vibe edite.
 
 <p align="center"><img src="https://raw.githubusercontent.com/area55brasil/.github/main/assets/meme-lulu.jpeg" height="256px" alt="Lulu está de olho"></p>
 
